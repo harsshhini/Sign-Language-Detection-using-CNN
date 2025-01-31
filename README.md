@@ -1,7 +1,5 @@
 # Sign-Language-Detection-using-CNN
-# Sign Language to Text Conversion
 
-![Sign Language to Text](images/banner.png)
 
 ## 📌 Overview
 This project is a deep learning-based Sign Language to Text conversion system. It utilizes a Convolutional Neural Network (CNN) model to recognize sign language gestures and convert them into text. This system aims to aid communication for the hearing and speech impaired.
@@ -49,4 +47,4 @@ This project is a deep learning-based Sign Language to Text conversion system. I
 
 
 ### Real-time Recognition
-![Real-time Prediction](images/real_time.png)
+![Real-time Prediction](ProjectDemoImages/)
