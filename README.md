@@ -48,27 +48,24 @@ source env/bin/activate  # Activate on macOS/Linux
 env\Scripts\activate  # Activate on Windows
 ```
 
-### **3️⃣ Install Dependencies**
+### **3️⃣ Install Dependencies **
 ```bash
-pip install -r requirements.txt
+pip install opencv-python
+pip install tensorflow
+pip install keras
+pip install numpy
+pip install pandas
+pip install matplotlib
 ```
 
 ### **4️⃣ Train the Model (If Needed)**
-If you need to train the model, run:
-```bash
-python train_model.py
-```
+
 
 ### **5️⃣ Run the Sign Language Recognition**
-```bash
-python sign_language.py
-```
+
 This will start the real-time recognition system using your webcam.
 
-### **6️⃣ Deactivate Virtual Environment (If Used)**
-```bash
-deactivate
-```
+
 
 ### Real-time Recognition
 ![Real-time Prediction](ProjectDemoImages/)
